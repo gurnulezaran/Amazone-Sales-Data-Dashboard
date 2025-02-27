@@ -1,2 +1,5 @@
-# Amazone-Sales-Data-Dashboard
-Project Overview This project analyzes Amazon sales data to derive meaningful insights and visualize key performance indicators (KPIs). The dataset includes transaction-level sales records with details such as product name, sales representative, location, and revenue. A dashboard is created to help track sales trends and performance.
+#Amazon-Sales-Data(Interactive Dashboard)
+
+##Objective
+
+The objective of this project is to analyze Amazon sales data to identify key trends, improve decision-making, and optimize sales performance. By leveraging data visualization techniques, we aim to enhance business insights and track critical sales metrics effectively.
