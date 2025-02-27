@@ -22,7 +22,7 @@ The objective of this project is to analyze Amazon sales data to identify key tr
 
 - Dashboard Inteaction <a href ="https://github.com/gurnulezaran/Amazone-Sales-Data-Dashboard/blob/main/Amazone%20Sales%20Data%20Dashboard.png">View Dashboad</a>
 
-##Process
+## Process
 
 - Data Collection: Gather raw sales transaction data from Amazon.
 - Data Cleaning: Remove inconsistencies, duplicate records, and handle missing values.
@@ -32,6 +32,7 @@ The objective of this project is to analyze Amazon sales data to identify key tr
 - KPI Tracking: Monitor sales performance through defined key metrics.
 - Insights & Recommendations: Provide data-driven insights for business improvements.
 
-##Dashboard
+## Dashboard
+
 ![Amazone Sales Data Dashboard](https://github.com/user-attachments/assets/6a223176-aca5-4673-bd45-ef37fcb5ff49)
 
